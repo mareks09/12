@@ -1,0 +1,58 @@
+[
+  {
+    "uznemums": "Apple Inc.",
+    "simbols": "AAPL",
+    "NASDAQ": 173.50,
+    "NYSE": 176.15,
+    "Nasdaq Riga": 175.22,
+    "valuta": "USD"
+  },
+  {
+    "uznemums": "Microsoft Corporation",
+    "simbols": "MSFT",
+    "NASDAQ": 418.20,
+    "NYSE": 420.00,
+    "Nasdaq Riga": 415.50,
+    "valuta": "USD"
+  },
+  {
+    "uznemums": "NVIDIA Corporation",
+    "simbols": "NVDA",
+    "NASDAQ": 850.10,
+    "NYSE": 880.50,
+    "Nasdaq Riga": 875.38,
+    "valuta": "USD"
+  },
+  {
+    "uznemums": "Alphabet Inc. (Google)",
+    "simbols": "GOOGL",
+    "NASDAQ": 150.05,
+    "NYSE": 153.20,
+    "Nasdaq Riga": 152.45,
+    "valuta": "USD"
+  },
+  {
+    "uznemums": "Amazon.com Inc.",
+    "simbols": "AMZN",
+    "NASDAQ": 180.10,
+    "NYSE": 181.50,
+    "Nasdaq Riga": 178.15,
+    "valuta": "USD"
+  },
+  {
+    "uznemums": "Tesla, Inc.",
+    "simbols": "TSLA",
+    "NASDAQ": 175.40,
+    "NYSE": 176.90,
+    "Nasdaq Riga": 171.05,
+    "valuta": "USD"
+  },
+  {
+    "uznemums": "Meta Platforms, Inc.",
+    "simbols": "META",
+    "NASDAQ": 488.15,
+    "NYSE": 500.20,
+    "Nasdaq Riga": 496.24,
+    "valuta": "USD"
+  }
+]
